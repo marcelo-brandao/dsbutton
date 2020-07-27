@@ -1,0 +1,22 @@
+{
+  "name": "dsbutton",
+  "version": "1.0.0",
+  "description": "Botao padrao mspro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelo-brandao/dsbutton.git"
+  },
+  "keywords": [
+    "botao"
+  ],
+  "author": "Brandao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelo-brandao/dsbutton/issues"
+  },
+  "homepage": "https://github.com/marcelo-brandao/dsbutton#readme"
+}

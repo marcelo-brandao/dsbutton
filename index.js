@@ -13,7 +13,7 @@ function dsbutton(options) {
             estilos.style.borderRadius = '50px';
             estilos.style.color = '#ffffff';
             estilos.style.textAlign = 'center';
-            estilos.style.lineHeight = '30px';
+            estilos.style.lineHeight = '26px';
         })
 }
 
